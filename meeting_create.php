@@ -325,6 +325,6 @@ $("form[name='meeting-form']").validate({
 });
     
     </script>
-    <script src="https://maps.googleapis.com/maps/api/js?key=AIzaSyArAXrjA7lgdtsZmx-vfwz6EoKIVIhqQ30&callback=initialize"></script>
+    <script src=""></script>
 </body>
 </html>
